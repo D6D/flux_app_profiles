@@ -1,1 +1,11 @@
 __pycache__/
+
+# Diablo II: solo el código. Las imágenes, iconos, vídeos y .flux llevan arte de Blizzard
+# o capturas personales, y work/ son ficheros intermedios.
+diablo2/*.png
+diablo2/*.jpg
+diablo2/*.flux
+diablo2/icons_all/
+diablo2/out/
+diablo2/work/
+diablo2/icons_raw/
